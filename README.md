@@ -19,3 +19,5 @@ where the user can enter inputs, trigger API call and view calculation result,
 as well as view current configuration.
 
 * The web application should be packaged as an EAR and work on either Oracle WebLogic or IBM WebSphere or Apache TomEE.
+
+HTML page is located over http://localhost:8080/calculation/index.html
